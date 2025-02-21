@@ -1,5 +1,11 @@
 # Change Log
 
+# 1.0.1
+
+* Fixed CI errors
+* PyCrypto was deprecated and replaced with PyCryptodome
+* Apache removed the SOFTLAYER attribute from libcloud.compute.types in v3.8.0
+
 # 1.0.0
 
 * Drop Python 2.7 support
